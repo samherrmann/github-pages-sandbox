@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/github-pages-sandbox/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
